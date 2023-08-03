@@ -1,0 +1,5 @@
+Do while
+
+while executa 
+
+AULA 15 num.indexOf(7)  o de Of tem que ser maiuscula ser nao vai funcionar
